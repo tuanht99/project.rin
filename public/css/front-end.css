@@ -1,0 +1,126 @@
+/* all */
+
+/* header start */
+.top-header {
+    background: #fff;
+    color: black;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+}
+.top-header-hider {
+    height: 70px;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 20px;
+}
+.bg-ligh {
+    background: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.nav-bar{
+    padding: 10px;
+}
+.navbar-collapse{
+    padding-right: 4rem;
+}
+.btn-bb{
+    border: none;
+    background: none;
+    margin-top: 10px;
+}
+.nav-item-mr{
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+}
+/* header end */
+
+/* img header */
+.img-header {
+    background-image: url('../image/backgrou1.jpg');
+    height: 742px;
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.mg-top {
+    padding-top: 370px;
+}
+
+/* body */
+.index {
+    padding-top: 100px;
+}
+.latest-projects {
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.latest {
+    padding: 30px;
+}
+.bot-lpj {
+    margin-top: 30px;
+}
+/* .index .row .row .col-6 {
+    background-color: cadetblue;
+} */
+.see-all, .corporate-solutions, .call-center, .cloud-development {
+    height: 100%;
+    width: auto;
+    border: black solid 1px;
+    text-align: center;
+    padding: 30px;
+}
+.y-of-e {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.button-mpkh {
+    margin-bottom: 50px;
+}
+.thoigian {
+    border-bottom: black solid 2px;
+}
+.getmore{
+    margin-right: 150px;
+}
+.btn-1{
+    margin-right: 30px;
+}
+.get-more-with-us {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.catherine-williams, .rupert-wood, .samantha-brown {
+    margin: 30px;
+    padding: 20px;
+    border: #dfdee7 solid 1px;
+}
+.latest-blog-posts {
+    padding: 100px;
+}
+/* End */
+.end {
+    background: #1b1929;
+    padding: 50px;
+}
+.our-company {
+    color: #bab8c3;
+}
+.box {
+    padding: 0 50px 0 50px;
+}
+
+
+/* footer */
+.footer {
+    text-align: center;
+    padding: 30px;
+}
